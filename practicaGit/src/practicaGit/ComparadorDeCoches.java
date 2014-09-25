@@ -2,7 +2,6 @@ package practicaGit;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
 
 public class ComparadorDeCoches {
 
@@ -41,6 +40,12 @@ public class ComparadorDeCoches {
 		
 		System.out.println("Vamos a ordenar la lista por caballos:");
 		Collections.sort(listCoche, new ComparaCochePorCaballos());
+		System.out.println(listCoche);
+		System.out.println("");
+		System.out.println("");
+		
+		System.out.println("Vamos a ordenar la lista por propietario:");
+		Collections.sort(listCoche, new ComparaCochePorPropietario());
 		System.out.println(listCoche);
 		System.out.println("");
 		System.out.println("");
