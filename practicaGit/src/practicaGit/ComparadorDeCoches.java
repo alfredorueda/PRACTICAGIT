@@ -6,7 +6,7 @@ import java.util.Collections;
 public class ComparadorDeCoches {
 
 	//First Commit Alfredo
-	//Warren también la va a liar.
+	//Alfredo
 	
 	public static void main(String[] args) {
 		
