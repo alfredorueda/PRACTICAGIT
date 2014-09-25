@@ -6,7 +6,7 @@ import java.util.Collections;
 public class ComparadorDeCoches {
 
 	//First Commit Alfredo
-	//Alfredo
+	//Alfredo, conflicto resuelto. Yo gano
 	
 	public static void main(String[] args) {
 		
